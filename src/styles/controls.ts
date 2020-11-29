@@ -8,7 +8,9 @@ export const buttonStyles: React.CSSProperties = {
 	borderRadius: 10,
 	color: '#fff',
 	padding: '15px 40px',
-	cursor: 'pointer'
+	cursor: 'pointer',
+	fontSize: 24,
+	fontWeight: 700
 };
 
 export const headerStyles: React.CSSProperties = {
@@ -16,5 +18,6 @@ export const headerStyles: React.CSSProperties = {
 };
 
 export const contentStyles: React.CSSProperties = {
-	color: colors.black
+	color: colors.black,
+	lineHeight: '135%'
 };

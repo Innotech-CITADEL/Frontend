@@ -39,8 +39,8 @@ export default function IntroPage() {
 				<div style={styles.content}>
 					<div>
 						<img alt='App logo' src={logo} />
-						<h1 style={headerStyles}>Bara bara bara, bere bere bere</h1>
-						<p style={contentStyles}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam nesciunt obcaecati, error facilis quae eius libero odit excepturi cupiditate optio consequuntur rem voluptate, amet perferendis? Et eos quod iste corrupti.</p>
+						<h1 style={headerStyles}>We make your business better</h1>
+						<p style={contentStyles}>Pioneered the first modern experience in bank scoring using social netwerks data.</p>
 						<Link to='/form'>
 							<button
 								style={{
